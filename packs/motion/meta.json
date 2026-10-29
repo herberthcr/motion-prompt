@@ -268,7 +268,7 @@
     },
     {
       "no": "09", "slug": "easing", "category": "motion-polish",
-      "name": { "ja": "イージング", "en": "Easing", "zh-Hant": "Easing", "es": "Easing (aceleración)", "zh-Hans": "缓动" },
+      "name": { "ja": "イージング", "en": "Easing", "zh-Hant": "Easing", "es": "Easing", "zh-Hans": "缓动" },
       "meaning": { "ja": "緩急をつけて気持ちよく動かす", "en": "Motion speeds up and slows down instead of moving at one speed", "zh-Hant": "速度有快有慢，而不是等速移動", "es": "El movimiento acelera y frena en lugar de ir a velocidad constante", "zh-Hans": "动作通过加减速变化而非匀速移动" },
       "ask": { "ja": "この移動にイージングをかけて。イーズアウトで、止まり際をゆっくりに。", "en": "Add easing to this move: ease-out, slowing down as it stops.", "zh-Hant": "這段移動請加上 Easing，用 Ease-out，讓停下來之前慢慢減速。", "es": "Ponle easing a este movimiento: ease-out, que vaya frenando al detenerse.", "zh-Hans": "为这段移动添加缓出，使其逐渐减速停下。" },
       "summary": {

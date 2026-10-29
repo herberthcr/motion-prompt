@@ -105,7 +105,7 @@
 
     { "no": "09", "slug": "rack-focus", "category": "shooting-style-time",
       "name": { "ja": "ラックフォーカス", "en": "Rack focus", "zh-Hant": "焦點轉移", "es": "Cambio de foco (rack focus)", "zh-Hans": "焦点转移" },
-      "meaning": { "ja": "ピントを手前と奥のあいだで送る", "en": "Shift focus between near and far", "zh-Hant": "焦點在前景與後景之間轉移", "es": "Pasar el foco de cerca a lejos", "zh-Hans": "在近处与远处之间切换对焦" },
+      "meaning": { "ja": "ピントを手前と奥のあいだで送る", "en": "Shift focus between near and far", "zh-Hant": "焦點在前景與後景之間轉移", "es": "Pasar el foco entre cerca y lejos", "zh-Hans": "在近处与远处之间切换对焦" },
       "ask": { "ja": "手前のカップから奥の人物へ、1秒でラックフォーカス。", "en": "Rack focus from the cup in the foreground to the person behind it, in 1 second.", "zh-Hant": "用 1 秒做焦點轉移，把對焦點從前景的杯子移到後方的人物。", "es": "Cambio de foco de la taza en primer plano a la persona detrás, en 1 segundo.", "zh-Hans": "用 1 s 将焦点从前景杯子转移到后方人物。" },
       "summary": { "ja": "カメラは動かさず、ピントを手前の花から奥の人物へ送る。ぼけている側が入れ替わる。", "en": "The camera does not move; focus shifts from a flower in the foreground to a person behind it, swapping which one is blurred." },
       "spec": {
@@ -188,7 +188,7 @@
       "tags": ["time-lapse", "timelapse", "fast forward", "time compression", "sun", "clouds", "day to night"] },
 
     { "no": "16", "slug": "freeze-frame", "category": "shooting-style-time",
-      "name": { "ja": "フリーズフレーム", "en": "Freeze frame", "zh-Hant": "定格", "es": "Congelado (freeze frame)", "zh-Hans": "定格" },
+      "name": { "ja": "フリーズフレーム", "en": "Freeze frame", "zh-Hant": "定格", "es": "Cuadro congelado (freeze frame)", "zh-Hans": "定格" },
       "meaning": { "ja": "動きを一瞬止める", "en": "Pause the action for a beat", "zh-Hant": "讓動作停住一拍", "es": "Detener la acción un momento", "zh-Hans": "让动作暂停片刻" },
       "ask": { "ja": "振り向いた瞬間でフリーズフレーム。1秒止めて、名前を出す。", "en": "Freeze frame at the moment she turns around; hold for 1 second and show her name.", "zh-Hant": "在她轉身的瞬間定格，停住 1 秒，並顯示她的名字字幕。", "es": "Congela el cuadro cuando ella se da vuelta; sostenlo 1 segundo y muestra su nombre.", "zh-Hans": "她转身时定格 1 s，并显示姓名。" },
       "summary": { "ja": "跳び上がった人物が頂点に来た瞬間に映像を止め、1.4秒後に続きから再開する。", "en": "The picture stops at the moment a jumping person reaches the top, then resumes from the same frame 1.4 s later." },
@@ -224,7 +224,7 @@
       "tags": ["match cut", "graphic match", "shape match", "cut", "transition", "edit"] },
 
     { "no": "19", "slug": "whip-pan", "category": "transitions",
-      "name": { "ja": "ホイップパン", "en": "Whip pan", "zh-Hant": "甩鏡", "es": "Whip pan (barrido rápido)", "zh-Hans": "甩镜头转场" },
+      "name": { "ja": "ホイップパン", "en": "Whip pan", "zh-Hant": "甩鏡", "es": "Whip pan (paneo rápido)", "zh-Hans": "甩镜头转场" },
       "meaning": { "ja": "素早く振ってブレで次へ", "en": "Fast pan blur into the next shot", "zh-Hant": "快速橫搖，在動態模糊中接到下一個鏡頭", "es": "Un paneo rápido con desenfoque hacia la toma siguiente", "zh-Hans": "快速横摇形成模糊并切入下一镜头" },
       "ask": { "ja": "ホイップパンで右へ素早く振って、次の場所へつなぐ。", "en": "Whip pan to the right and land in the next location.", "zh-Hant": "攝影機原地快速往右甩鏡，在動態模糊中接到下一個地點。", "es": "Whip pan hacia la derecha y caer en la siguiente locación.", "zh-Hans": "向右甩镜头，落到下一个地点。" },
       "summary": { "ja": "カメラを素早く横に振り、流れてぼけた映像の中で次の場面に入れ替える。", "en": "The camera swings sideways very fast and the next scene is swapped in during the streaked blur." },
@@ -236,9 +236,9 @@
       "tags": ["whip pan", "swish pan", "motion blur", "fast pan", "transition", "energy"] },
 
     { "no": "20", "slug": "cross-dissolve", "category": "transitions",
-      "name": { "ja": "クロスディゾルブ", "en": "Cross dissolve", "zh-Hant": "交叉溶解", "es": "Fundido encadenado", "zh-Hans": "交叉溶解" },
+      "name": { "ja": "クロスディゾルブ", "en": "Cross dissolve", "zh-Hant": "交叉溶解", "es": "Disolución cruzada (cross dissolve)", "zh-Hans": "交叉溶解" },
       "meaning": { "ja": "前後の映像を重ねて溶かす", "en": "Blend one shot into the next", "zh-Hant": "一個鏡頭漸漸疊化成下一個", "es": "Mezclar una toma con la siguiente", "zh-Hans": "两个镜头逐渐叠化切换" },
-      "ask": { "ja": "朝の部屋から夜の同じ部屋へ、1秒のクロスディゾルブ。", "en": "Cross dissolve from the room in the morning to the same room at night, 1 second.", "zh-Hant": "用 1 秒的交叉溶解，從早晨的房間轉到同一個房間的夜晚。", "es": "Fundido encadenado del cuarto en la mañana al mismo cuarto de noche, 1 segundo.", "zh-Hans": "用 1 s 的交叉溶解，从清晨房间切换到同一房间的夜景。" },
+      "ask": { "ja": "朝の部屋から夜の同じ部屋へ、1秒のクロスディゾルブ。", "en": "Cross dissolve from the room in the morning to the same room at night, 1 second.", "zh-Hant": "用 1 秒的交叉溶解，從早晨的房間轉到同一個房間的夜晚。", "es": "Disolución cruzada del cuarto en la mañana al mismo cuarto de noche, 1 segundo.", "zh-Hans": "用 1 s 的交叉溶解，从清晨房间切换到同一房间的夜景。" },
       "summary": { "ja": "前の絵に次の絵を重ね、不透明度を上げていって入れ替える。途中は2つの絵が透けて重なる。", "en": "The next picture is laid over the current one and its opacity rises until it takes over; both show through each other midway." },
       "spec": {
         "ja": ["つなぎ方: 1.5秒から3.0秒までの1.5秒。次の絵の不透明度を 0 → 100%", "イージング: 2次のイーズインアウト（cubic-bezier(0.45,0,0.55,1) 相当）。中間の2.25秒で50%", "前の絵は不透明のまま下に置き、その上に次の絵を重ねる（前の絵を先に消さない）", "カメラ: 両方の絵とも固定（Aは高さ1.4m、Bは高さ1.6m・ピッチ+0.1rad）。被写体も動かない", "0〜1.5秒は前の絵だけ、3.0〜4.7秒は次の絵だけを見せる", "4.7秒ごとに A→B、B→A を交互に行う（往復で9.4秒）。右上に「A → B」「B → A」"],
@@ -248,9 +248,9 @@
       "tags": ["cross dissolve", "dissolve", "crossfade", "fade", "opacity", "blend", "transition"] },
 
     { "no": "21", "slug": "wipe", "category": "transitions",
-      "name": { "ja": "ワイプ", "en": "Wipe", "zh-Hant": "擦除轉場", "es": "Cortinilla (wipe)", "zh-Hans": "划像转场" },
+      "name": { "ja": "ワイプ", "en": "Wipe", "zh-Hant": "擦除轉場", "es": "Wipe (barrido)", "zh-Hans": "划像转场" },
       "meaning": { "ja": "境目が横切って画面が入れ替わる", "en": "A moving edge replaces the shot", "zh-Hant": "一條移動的邊界把畫面換掉", "es": "Un borde que avanza reemplaza la toma", "zh-Hans": "移动的边界逐步替换画面" },
-      "ask": { "ja": "左から右へのワイプで、次の場面に入れ替える。", "en": "Wipe from left to right into the next scene.", "zh-Hant": "用由左往右的擦除轉場，讓畫面換成下一個場景。", "es": "Cortinilla de izquierda a derecha hacia la siguiente escena.", "zh-Hans": "从左向右划像，切换到下一场景。" },
+      "ask": { "ja": "左から右へのワイプで、次の場面に入れ替える。", "en": "Wipe from left to right into the next scene.", "zh-Hant": "用由左往右的擦除轉場，讓畫面換成下一個場景。", "es": "Wipe de izquierda a derecha hacia la siguiente escena.", "zh-Hans": "从左向右划像，切换到下一场景。" },
       "summary": { "ja": "縦の境界線が左から右へ動き、通過した側から次の絵に置き換わる。", "en": "A vertical edge moves from left to right and the next picture replaces the current one behind it." },
       "spec": {
         "ja": ["つなぎ方: 1.7秒から2.8秒までの1.1秒。境界線が左端の外（x=-4px）から右端の外（x=543px）へ移動", "イージング: 3次のイーズインアウト（cubic-bezier(0.65,0,0.35,1) 相当）", "境界線の左側に次の絵、右側に前の絵を表示。どちらの絵も位置は動かさない（押し出しではなく切り抜き）", "境界: 幅4pxの青い縦線を、移動中だけ表示", "カメラ: 両方の絵とも固定。被写体も動かない", "4.7秒ごとに A→B、B→A を交互に行う（往復で9.4秒）。右上に「A → B」「B → A」"],

@@ -603,7 +603,7 @@
     {
       "no": "21", "slug": "pixelate", "category": "transitions-highlights",
       "name": { "ja": "ピクセレート", "en": "Pixelate", "es": "Pixelado (pixelate)", "zh-Hans": "像素化转场", "zh-Hant": "像素化轉場" },
-      "meaning": { "ja": "モザイクが粗くなって切り替わる", "en": "Turns into coarse blocks, then switches", "es": "Se vuelve bloques gruesos y luego cambia", "zh-Hans": "马赛克逐渐变粗后切换画面", "zh-Hant": "馬賽克越變越粗，再切換畫面" },
+      "meaning": { "ja": "モザイクが粗くなって切り替わる", "en": "Turns into coarse blocks, then switches", "es": "Se convierte en bloques gruesos y luego cambia", "zh-Hans": "马赛克逐渐变粗后切换画面", "zh-Hant": "馬賽克越變越粗，再切換畫面" },
       "ask": { "ja": "ピクセレートで切り替えて。0.6秒でモザイクが粗くなり、いちばん粗いところで次の画面へ。", "en": "Use a pixelate transition: the mosaic gets coarser over 0.6 s and the scene changes at the coarsest point.", "es": "Usa una transición de pixelado: el mosaico se vuelve más grueso durante 0,6 s y la escena cambia en el punto más grueso.", "zh-Hans": "用像素化转场切换：0.6 s 内马赛克逐渐变粗，在最粗时切到下一画面。", "zh-Hant": "請用像素化轉場：0.6 秒內馬賽克越來越粗，在最粗的時候切換到下一個畫面。" },
       "summary": {
         "ja": "画面がだんだん粗いモザイクになり、いちばん粗いところで切り替わって細かく戻る。",
@@ -631,7 +631,7 @@
       "no": "22", "slug": "shatter", "category": "transitions-highlights",
       "name": { "ja": "ガラス割れ", "en": "Shatter", "es": "Vidrio roto (shatter)", "zh-Hans": "玻璃碎裂", "zh-Hant": "玻璃碎裂" },
       "meaning": { "ja": "ガラスのように割れて破片が飛ぶ", "en": "Breaks like glass and the shards fly off", "es": "Se rompe como vidrio y los fragmentos salen volando", "zh-Hans": "像玻璃一样碎裂，碎片飞散", "zh-Hant": "像玻璃一樣碎裂，碎片四散" },
-      "ask": { "ja": "タイトルの登場前に、前の画面をガラス割れで砕いて。ひびが入ってから破片が1秒で落ちるように。", "en": "Before the title appears, break the previous scene with a shatter: cracks first, then the shards fall away in about 1 s.", "es": "Antes de que aparezca el título, rompe la escena anterior con un efecto de vidrio roto: primero las grietas y luego los fragmentos caen en aproximadamente 1 s.", "zh-Hans": "标题出现前，用玻璃碎裂打碎前一画面：先出现裂纹，碎片再在约 1 s 内落下。", "zh-Hant": "標題出現之前，請用玻璃碎裂把前一個畫面打碎：先出現裂痕，再讓碎片在約 1 秒內落下。" },
+      "ask": { "ja": "タイトルの登場前に、前の画面をガラス割れで砕いて。ひびが入ってから破片が1秒で落ちるように。", "en": "Before the title appears, break the previous scene with a shatter: cracks first, then the shards fall away in about 1 s.", "es": "Antes de que aparezca el título, rompe la escena anterior con un efecto de vidrio roto: primero aparecen las grietas y luego caen los fragmentos, en aproximadamente 1 s.", "zh-Hans": "标题出现前，用玻璃碎裂打碎前一画面：先出现裂纹，碎片再在约 1 s 内落下。", "zh-Hant": "標題出現之前，請用玻璃碎裂把前一個畫面打碎：先出現裂痕，再讓碎片在約 1 秒內落下。" },
       "summary": {
         "ja": "画面がガラスのようにひび割れ、破片が飛び散って次の画面が現れる。",
         "en": "The picture cracks like glass, the shards fly off and the next scene is revealed."

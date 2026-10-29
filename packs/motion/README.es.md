@@ -25,7 +25,7 @@ Encuentra el nombre y díselo a tu IA. Si agregas cuánto dura, con qué intensi
 
 | # | Nombre | Inglés | Qué es | Cómo pedírselo a una IA |
 |---|---|---|---|---|
-| [#009](https://showheyohtaki.github.io/motion-prompt/#009) | **Easing (aceleración)** | Easing | El movimiento acelera y frena en lugar de ir a velocidad constante | Ponle easing a este movimiento: ease-out, que vaya frenando al detenerse. |
+| [#009](https://showheyohtaki.github.io/motion-prompt/#009) | **Easing** | Easing | El movimiento acelera y frena en lugar de ir a velocidad constante | Ponle easing a este movimiento: ease-out, que vaya frenando al detenerse. |
 | [#010](https://showheyohtaki.github.io/motion-prompt/#010) | **Overshoot (pasarse y volver)** | Overshoot | Se pasa un poco del objetivo y luego se acomoda | Dale overshoot a la aguja del indicador: un 10 % más allá del objetivo y luego de vuelta. |
 | [#011](https://showheyohtaki.github.io/motion-prompt/#011) | **Squash & stretch (aplastar y estirar)** | Squash & stretch | Se aplasta y se estira para sentirse elástico | Agrega squash and stretch cuando la pelota cae; que el aplastamiento sea sutil. |
 | [#012](https://showheyohtaki.github.io/motion-prompt/#012) | **Morphing de formas** | Shape morph | Una forma se transforma suavemente en otra | Transforma el círculo en estrella en 0,8 s, cambiando el color de azul a amarillo en el camino. |

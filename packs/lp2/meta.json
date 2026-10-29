@@ -221,7 +221,7 @@
       "no": "08", "slug": "zoom-on-scroll", "category": "scroll",
       "name": { "ja": "スクロールで拡大", "en": "Zoom on scroll", "es": "Zoom al hacer scroll", "zh-Hans": "滚动放大", "zh-Hant": "捲動放大" },
       "meaning": { "ja": "画像が画面いっぱいまで広がる", "en": "An image grows to fill the screen as you scroll", "es": "Una imagen crece hasta llenar la pantalla al hacer scroll", "zh-Hans": "图片随滚动放大至铺满屏幕", "zh-Hant": "捲動時，圖片放大到填滿畫面" },
-      "ask": { "ja": "ファーストビューの写真をスクロールで拡大にして。中央の小さな写真をスクロールに合わせて画面いっぱいまで広げ、広がりきったら見出しを重ねて。", "en": "Use zoom on scroll for the hero image: grow the small centered photo to fill the viewport as the user scrolls, then fade a headline in over it.", "es": "Usa zoom al hacer scroll en la imagen del hero: que la foto pequeña del centro crezca hasta llenar la pantalla mientras se hace scroll, y luego funde un titular encima.", "zh-Hans": "首屏照片做成滚动放大：中央的小照片随滚动放大到铺满视口，完全展开后叠上标题。", "zh-Hant": "Hero 區塊的照片做成捲動放大：中央的小照片隨著捲動放大到填滿畫面，完全放大後再疊上標題。" },
+      "ask": { "ja": "ファーストビューの写真をスクロールで拡大にして。中央の小さな写真をスクロールに合わせて画面いっぱいまで広げ、広がりきったら見出しを重ねて。", "en": "Use zoom on scroll for the hero image: grow the small centered photo to fill the viewport as the user scrolls, then fade a headline in over it.", "es": "Usa zoom al hacer scroll en la imagen del hero: que la foto pequeña del centro crezca hasta llenar la pantalla mientras se hace scroll, y que luego aparezca un titular con un fundido.", "zh-Hans": "首屏照片做成滚动放大：中央的小照片随滚动放大到铺满视口，完全展开后叠上标题。", "zh-Hant": "Hero 區塊的照片做成捲動放大：中央的小照片隨著捲動放大到填滿畫面，完全放大後再疊上標題。" },
       "summary": {
         "ja": "スクロールに合わせて、ページ中央の小さな写真が窓いっぱいまで広がり、周りの文字が消えて、写真の上に見出しが出る。",
         "en": "As the page scrolls, a small photo in the middle grows to fill the window, the text around it fades away and a headline appears over the photo."
@@ -312,7 +312,7 @@
       "no": "11", "slug": "image-swap-on-hover", "category": "mouse-input",
       "name": { "ja": "ホバーで画像切り替え", "en": "Image swap on hover", "es": "Cambio de imagen al pasar el cursor", "zh-Hans": "悬停切换图片", "zh-Hant": "Hover 切換圖片" },
       "meaning": { "ja": "乗せると別の写真に切り替わる", "en": "Hovering swaps the photo for another shot", "es": "Al pasar el cursor, la foto cambia por otra toma", "zh-Hans": "悬停时换成另一张照片", "zh-Hant": "滑鼠移上去時換成另一張照片" },
-      "ask": { "ja": "商品一覧にホバーで画像切り替えを付けて。カーソルを乗せたら0.3秒で後ろ姿の写真にクロスフェードして。", "en": "Add an image swap on hover to the product grid: cross-fade to the back view over 0.3 s when the cursor is on a card.", "es": "Agrega un cambio de imagen al pasar el cursor a la cuadrícula de productos: un fundido cruzado a la vista de espalda en 0,3 s cuando el cursor esté sobre una tarjeta.", "zh-Hans": "给商品列表加上悬停切换图片：光标停在卡片上时，用 0.3 s 叠化为背面照片。", "zh-Hant": "商品列表加上 Hover 切換圖片：游標移到卡片上時，用 0.3 秒交叉溶解成背面照片。" },
+      "ask": { "ja": "商品一覧にホバーで画像切り替えを付けて。カーソルを乗せたら0.3秒で後ろ姿の写真にクロスフェードして。", "en": "Add an image swap on hover to the product grid: cross-fade to the back view over 0.3 s when the cursor is on a card.", "es": "Agrega un cambio de imagen al pasar el cursor a la cuadrícula de productos: una disolución cruzada a la vista de espalda en 0,3 s cuando el cursor esté sobre una tarjeta.", "zh-Hans": "给商品列表加上悬停切换图片：光标停在卡片上时，用 0.3 s 叠化为背面照片。", "zh-Hant": "商品列表加上 Hover 切換圖片：游標移到卡片上時，用 0.3 秒交叉溶解成背面照片。" },
       "summary": {
         "ja": "商品カードにカーソルを乗せると、Tシャツの正面の写真が後ろ姿の写真にふわっと切り替わり、離れると正面に戻る。",
         "en": "With the cursor on a product card, the front photo of the T-shirt cross-fades to a back view; it returns to the front when the cursor leaves."

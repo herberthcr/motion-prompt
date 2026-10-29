@@ -1,5 +1,5 @@
 {
- "version": "1.6950972783",
+ "version": "1.91a009b38d",
  "site": "https://showheyohtaki.github.io/motion-prompt/",
  "repo": "https://github.com/showheyohtaki/motion-prompt",
  "count": 192,
@@ -962,7 +962,7 @@
     "ja": "イージング",
     "en": "Easing",
     "zh-Hant": "Easing",
-    "es": "Easing (aceleración)",
+    "es": "Easing",
     "zh-Hans": "缓动"
    },
    "meaning": {
@@ -2530,7 +2530,7 @@
     "ja": "ピントを手前と奥のあいだで送る",
     "en": "Shift focus between near and far",
     "zh-Hant": "焦點在前景與後景之間轉移",
-    "es": "Pasar el foco de cerca a lejos",
+    "es": "Pasar el foco entre cerca y lejos",
     "zh-Hans": "在近处与远处之间切换对焦"
    },
    "ask": {
@@ -2984,7 +2984,7 @@
     "ja": "フリーズフレーム",
     "en": "Freeze frame",
     "zh-Hant": "定格",
-    "es": "Congelado (freeze frame)",
+    "es": "Cuadro congelado (freeze frame)",
     "zh-Hans": "定格"
    },
    "meaning": {
@@ -3180,7 +3180,7 @@
     "ja": "ホイップパン",
     "en": "Whip pan",
     "zh-Hant": "甩鏡",
-    "es": "Whip pan (barrido rápido)",
+    "es": "Whip pan (paneo rápido)",
     "zh-Hans": "甩镜头转场"
    },
    "meaning": {
@@ -3245,7 +3245,7 @@
     "ja": "クロスディゾルブ",
     "en": "Cross dissolve",
     "zh-Hant": "交叉溶解",
-    "es": "Fundido encadenado",
+    "es": "Disolución cruzada (cross dissolve)",
     "zh-Hans": "交叉溶解"
    },
    "meaning": {
@@ -3259,7 +3259,7 @@
     "ja": "朝の部屋から夜の同じ部屋へ、1秒のクロスディゾルブ。",
     "en": "Cross dissolve from the room in the morning to the same room at night, 1 second.",
     "zh-Hant": "用 1 秒的交叉溶解，從早晨的房間轉到同一個房間的夜晚。",
-    "es": "Fundido encadenado del cuarto en la mañana al mismo cuarto de noche, 1 segundo.",
+    "es": "Disolución cruzada del cuarto en la mañana al mismo cuarto de noche, 1 segundo.",
     "zh-Hans": "用 1 s 的交叉溶解，从清晨房间切换到同一房间的夜景。"
    },
    "summary": {
@@ -3311,7 +3311,7 @@
     "ja": "ワイプ",
     "en": "Wipe",
     "zh-Hant": "擦除轉場",
-    "es": "Cortinilla (wipe)",
+    "es": "Wipe (barrido)",
     "zh-Hans": "划像转场"
    },
    "meaning": {
@@ -3325,7 +3325,7 @@
     "ja": "左から右へのワイプで、次の場面に入れ替える。",
     "en": "Wipe from left to right into the next scene.",
     "zh-Hant": "用由左往右的擦除轉場，讓畫面換成下一個場景。",
-    "es": "Cortinilla de izquierda a derecha hacia la siguiente escena.",
+    "es": "Wipe de izquierda a derecha hacia la siguiente escena.",
     "zh-Hans": "从左向右划像，切换到下一场景。"
    },
    "summary": {
@@ -7874,7 +7874,7 @@
     "ja": "街を歩く人物を映画のようなティール＆オレンジで。影と空は青緑、肌と夕日は橙に寄せて。",
     "en": "Person walking in the city with a cinematic teal and orange grade: shadows and sky toward teal, skin and sunlight toward orange.",
     "zh-Hant": "在街上走路的人物，調成電影感的 Teal & Orange。陰影和天空偏青綠色，皮膚和夕陽偏橘色。",
-    "es": "Persona caminando en la ciudad con un etalonaje teal and orange de cine: sombras y cielo al verde azulado, piel y luz del sol al naranja.",
+    "es": "Persona caminando en la ciudad con una corrección de color teal and orange de cine: sombras y cielo al verde azulado, piel y luz del sol al naranja.",
     "zh-Hans": "城市步行人物用电影青橙色调，阴影和天空偏青，皮肤和阳光偏橙。"
    },
    "summary": {
@@ -9364,7 +9364,7 @@
    "meaning": {
     "ja": "モザイクが粗くなって切り替わる",
     "en": "Turns into coarse blocks, then switches",
-    "es": "Se vuelve bloques gruesos y luego cambia",
+    "es": "Se convierte en bloques gruesos y luego cambia",
     "zh-Hans": "马赛克逐渐变粗后切换画面",
     "zh-Hant": "馬賽克越變越粗，再切換畫面"
    },
@@ -9431,7 +9431,7 @@
    "ask": {
     "ja": "タイトルの登場前に、前の画面をガラス割れで砕いて。ひびが入ってから破片が1秒で落ちるように。",
     "en": "Before the title appears, break the previous scene with a shatter: cracks first, then the shards fall away in about 1 s.",
-    "es": "Antes de que aparezca el título, rompe la escena anterior con un efecto de vidrio roto: primero las grietas y luego los fragmentos caen en aproximadamente 1 s.",
+    "es": "Antes de que aparezca el título, rompe la escena anterior con un efecto de vidrio roto: primero aparecen las grietas y luego caen los fragmentos, en aproximadamente 1 s.",
     "zh-Hans": "标题出现前，用玻璃碎裂打碎前一画面：先出现裂纹，碎片再在约 1 s 内落下。",
     "zh-Hant": "標題出現之前，請用玻璃碎裂把前一個畫面打碎：先出現裂痕，再讓碎片在約 1 秒內落下。"
    },
@@ -10049,7 +10049,7 @@
    "ask": {
     "ja": "ファーストビューの写真をスクロールで拡大にして。中央の小さな写真をスクロールに合わせて画面いっぱいまで広げ、広がりきったら見出しを重ねて。",
     "en": "Use zoom on scroll for the hero image: grow the small centered photo to fill the viewport as the user scrolls, then fade a headline in over it.",
-    "es": "Usa zoom al hacer scroll en la imagen del hero: que la foto pequeña del centro crezca hasta llenar la pantalla mientras se hace scroll, y luego funde un titular encima.",
+    "es": "Usa zoom al hacer scroll en la imagen del hero: que la foto pequeña del centro crezca hasta llenar la pantalla mientras se hace scroll, y que luego aparezca un titular con un fundido.",
     "zh-Hans": "首屏照片做成滚动放大：中央的小照片随滚动放大到铺满视口，完全展开后叠上标题。",
     "zh-Hant": "Hero 區塊的照片做成捲動放大：中央的小照片隨著捲動放大到填滿畫面，完全放大後再疊上標題。"
    },
@@ -10239,7 +10239,7 @@
    "ask": {
     "ja": "商品一覧にホバーで画像切り替えを付けて。カーソルを乗せたら0.3秒で後ろ姿の写真にクロスフェードして。",
     "en": "Add an image swap on hover to the product grid: cross-fade to the back view over 0.3 s when the cursor is on a card.",
-    "es": "Agrega un cambio de imagen al pasar el cursor a la cuadrícula de productos: un fundido cruzado a la vista de espalda en 0,3 s cuando el cursor esté sobre una tarjeta.",
+    "es": "Agrega un cambio de imagen al pasar el cursor a la cuadrícula de productos: una disolución cruzada a la vista de espalda en 0,3 s cuando el cursor esté sobre una tarjeta.",
     "zh-Hans": "给商品列表加上悬停切换图片：光标停在卡片上时，用 0.3 s 叠化为背面照片。",
     "zh-Hant": "商品列表加上 Hover 切換圖片：游標移到卡片上時，用 0.3 秒交叉溶解成背面照片。"
    },
